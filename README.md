@@ -2,8 +2,7 @@
 
 ## I'm a React Native Developer, Data Scientist and Machine Learning Engineer!!
 
-[![Visits Badge](https://badges.pufler.dev/visits/OmarHanyMohamed/OmarHanyMohamed)](https:braydoncoyer.dev)
- <img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarHanyMohamed?label=My%20Followers&style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarHanyMohamed?label=My%20Followers&style=social">
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
