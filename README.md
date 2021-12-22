@@ -4,10 +4,11 @@
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarHanyMohamed?label=My%20Followers&style=social">
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Currently a Kaggle 3x Expert.
+- 🌱 I’m currently learning everything 💻 
+- 👨🏽‍💻 Currently a Kaggle 3x Expert.
+- 👯 I’m looking to collaborate with other content creators.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
+- ⚡ My passion is creating mobile apps and ML models.
 
 ### Connect with me:
 
