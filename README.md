@@ -1,9 +1,17 @@
 ### Hi there, I'm Omar Hany 👋 
 
-## I'm a React Native Developer, Data Scientist and Machine Learning Engineer!!
+## I'm a React Native Developer, Data Scientist and Machine Learning Engineer!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+<div align="center">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/OmarHanyMohamed?label=My%20Followers&style=social">
+<a href="https://www.linkedin.com/in/omarhanysakr/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=LinkedIn" alt="LinkedIn"></a>
+<a href="https://twitter.com/OmarOHany"><img src="https://img.shields.io/twitter/follow/OmarOHany?label=Twitter&style=social" alt="Twitter"></a>
+<a href="https://www.kaggle.com/omarhanyy"><img src="https://img.shields.io/badge/kaggle-blue?label=Kaggle&logo=Kaggle&style=social" alt="Kaggle"></a>
 
+  
+
+</div>
+  
 - 🌱 I’m currently learning everything 💻 
 - 👨🏽‍💻 Currently a Kaggle 3x Expert.
 - 👯 I’m looking to collaborate with other content creators.
